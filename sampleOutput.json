@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Woj: The Blazers will cast a 'wide net' for a trade partner for Damian Lillard | SportsCenter - ESPN",
+            "description": "Adrian Wojnarowski joins SportsCenter to discuss the latest on Damian Lillard's trade request from the Portland Trail Blazers and he touches on Donte DiVince...",
+            "url": "https://www.youtube.com/watch?v=Rf0ro0R1EHE",
+            "urlToImage": "https://i.ytimg.com/vi/Rf0ro0R1EHE/maxresdefault.jpg",
+            "publishedAt": "2023-07-02T04:24:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Birmingham Stallions win second straight USFL Championship - NBC Sports",
+            "description": "The Birmingham Stallions have won the first two championships of USFL 2.0.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/birmingham-stallions-win-second-straight-usfl-championship",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f2b5957/2147483647/strip/true/crop/5596x3148+0+292/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F59%2F2f%2F9925a08e4ef0a8de738de84f9415%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1508240665",
+            "publishedAt": "2023-07-02T04:02:42Z",
+            "content": "The Birmingham Stallions have won the first two championships of USFL 2.0.\r\nThe Stallions capped off their second straight title run on Saturday night with a 28-12 win over the Pittsburgh Maulers, 28… [+1449 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Ryan Satin",
+            "title": "Roman Reigns is pinned for first time in more than 3 years at WWE Money in the Bank - FOX Sports",
+            "description": "The pin of WWE champ Roman Reigns surprisingly did not come in a title match, nor due to the efforts of a rising star.",
+            "url": "https://www.foxsports.com/stories/wwe/roman-reigns-pinned-for-first-time-in-more-than-3-years-at-wwe-money-in-the-bank",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/07/1408/814/reigns-wide-070123.jpg?ve=1&tl=1",
+            "publishedAt": "2023-07-02T00:09:15Z",
+            "content": "Roman Reigns was pinned for the first time in three and a half years on Saturday at Money in the Bank yet the result wasnt a crowning achievement for a new top star in WWE like many expected would oc… [+2388 chars]"
+        }
+    ]
+}
